@@ -15,7 +15,7 @@
 * 🔭 Hiện tại đang phát triển **WordPress & Laravel applications**
 * 🌱 Đang học thêm **System Design & Cloud**
 * ⚡ Chuyên xây dựng **scalable web systems**
-* 📫 Contact: **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 Contact: **[nguyenhieploi2001@gmail.com](mailto:nguyenhieploi2001@gmail.com)**
 
 ---
 
@@ -72,11 +72,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/nguy%E1%BB%85n-hi%E1%BB%87p-l%E1%BB%A3i-2b0a5927b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="#">
+<a href="https://www.loicoder.com/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
@@ -94,4 +94,4 @@
 
 ---
 
-⭐️ From **Nguyen Hieu Loi**
+⭐️ From **Nguyen Hiep Loi**
